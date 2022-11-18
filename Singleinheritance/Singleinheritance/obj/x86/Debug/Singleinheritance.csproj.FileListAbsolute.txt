@@ -1,0 +1,4 @@
+D:\C#Programs\Singleinheritance\Singleinheritance\bin\Debug\Singleinheritance.exe
+D:\C#Programs\Singleinheritance\Singleinheritance\bin\Debug\Singleinheritance.pdb
+D:\C#Programs\Singleinheritance\Singleinheritance\obj\x86\Debug\Singleinheritance.exe
+D:\C#Programs\Singleinheritance\Singleinheritance\obj\x86\Debug\Singleinheritance.pdb
