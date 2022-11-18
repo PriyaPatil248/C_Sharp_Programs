@@ -1,0 +1,4 @@
+D:\C#Programs\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\C#Programs\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\C#Programs\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\C#Programs\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
