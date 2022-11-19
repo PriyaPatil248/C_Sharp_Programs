@@ -1,0 +1,4 @@
+D:\C#Programs\Multipleinheritance\Multipleinheritance\bin\Debug\Multipleinheritance.exe
+D:\C#Programs\Multipleinheritance\Multipleinheritance\bin\Debug\Multipleinheritance.pdb
+D:\C#Programs\Multipleinheritance\Multipleinheritance\obj\x86\Debug\Multipleinheritance.exe
+D:\C#Programs\Multipleinheritance\Multipleinheritance\obj\x86\Debug\Multipleinheritance.pdb
