@@ -1,0 +1,4 @@
+D:\C#Programs\FileException\FileException\bin\Debug\FileException.exe
+D:\C#Programs\FileException\FileException\bin\Debug\FileException.pdb
+D:\C#Programs\FileException\FileException\obj\x86\Debug\FileException.exe
+D:\C#Programs\FileException\FileException\obj\x86\Debug\FileException.pdb
