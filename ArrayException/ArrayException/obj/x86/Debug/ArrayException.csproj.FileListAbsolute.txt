@@ -1,0 +1,4 @@
+D:\C#Programs\ArrayException\ArrayException\bin\Debug\ArrayException.exe
+D:\C#Programs\ArrayException\ArrayException\bin\Debug\ArrayException.pdb
+D:\C#Programs\ArrayException\ArrayException\obj\x86\Debug\ArrayException.exe
+D:\C#Programs\ArrayException\ArrayException\obj\x86\Debug\ArrayException.pdb
