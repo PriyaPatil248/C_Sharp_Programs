@@ -1,0 +1,4 @@
+D:\C#Programs\CreateFile\CreateFile\bin\Debug\CreateFile.exe
+D:\C#Programs\CreateFile\CreateFile\bin\Debug\CreateFile.pdb
+D:\C#Programs\CreateFile\CreateFile\obj\x86\Debug\CreateFile.exe
+D:\C#Programs\CreateFile\CreateFile\obj\x86\Debug\CreateFile.pdb
