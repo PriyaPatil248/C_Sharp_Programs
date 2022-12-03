@@ -1,0 +1,4 @@
+D:\C#Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\C#Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\C#Programs\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.exe
+D:\C#Programs\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.pdb
