@@ -1,0 +1,4 @@
+D:\C#Programs\UserDefineException\UserDefineException\bin\Debug\UserDefineException.exe
+D:\C#Programs\UserDefineException\UserDefineException\bin\Debug\UserDefineException.pdb
+D:\C#Programs\UserDefineException\UserDefineException\obj\x86\Debug\UserDefineException.exe
+D:\C#Programs\UserDefineException\UserDefineException\obj\x86\Debug\UserDefineException.pdb
